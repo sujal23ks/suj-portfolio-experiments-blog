@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suj-portfolio-experiments-blog/static/css/main.d0753a41.css",
+    "main.js": "/suj-portfolio-experiments-blog/static/js/main.6dd06708.js",
+    "static/js/453.cdb1d550.chunk.js": "/suj-portfolio-experiments-blog/static/js/453.cdb1d550.chunk.js",
+    "index.html": "/suj-portfolio-experiments-blog/index.html",
+    "main.d0753a41.css.map": "/suj-portfolio-experiments-blog/static/css/main.d0753a41.css.map",
+    "main.6dd06708.js.map": "/suj-portfolio-experiments-blog/static/js/main.6dd06708.js.map",
+    "453.cdb1d550.chunk.js.map": "/suj-portfolio-experiments-blog/static/js/453.cdb1d550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0753a41.css",
+    "static/js/main.6dd06708.js"
+  ]
+}
